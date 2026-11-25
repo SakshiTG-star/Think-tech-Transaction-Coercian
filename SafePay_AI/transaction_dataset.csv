@@ -1,0 +1,129 @@
+text,language,transaction_amount,average_amount,amount_deviation_ratio,new_receiver_indicator,unusual_transaction_time,customer_transaction_count,user_reported_pressure,remote_guidance_indicator,receiver_verified,feels_safe,label
+Monthly groceries at FreshMart supermarket,English,1850,2500,0.74,0,0,6,0,0,1,1,0
+Electricity utility bill payment for home,English,2400,2500,0.96,0,0,6,0,0,1,1,0
+Sending dinner split to college friend,English,850,2100,0.40,0,0,8,0,0,1,1,0
+Monthly broadband internet recharge,English,1199,2500,0.48,0,0,6,0,0,1,1,0
+Pharmacy medicines purchase for parents,English,960,1560,0.62,0,0,5,0,0,1,1,0
+Weekly vegetable and organic produce order,English,1120,1560,0.72,0,0,5,0,0,1,1,0
+Coworking office desk monthly invoice,English,12500,7650,1.63,0,0,7,0,0,1,1,0
+Cloud design software annual renewal,English,4200,7650,0.55,0,0,7,0,0,1,1,0
+Transferring family allowance to sister,English,5000,2500,2.00,0,0,6,0,0,1,1,0
+Late night pharmacy order for fever medicine,English,1400,2500,0.56,0,1,6,0,0,1,1,0
+Midnight food delivery payment to known cafe,English,920,2500,0.37,0,1,7,0,0,1,1,0
+Helping brother with hospital deposit,English,14000,2500,5.60,0,0,8,0,0,1,1,0
+Paying family carpenter after inspecting work,English,6500,2500,2.60,1,0,6,0,0,1,1,0
+Buying concert tickets with friend online,English,3200,2500,1.28,1,0,7,0,0,1,1,0
+Home water and gas utility bill,English,1450,1560,0.93,0,0,5,0,0,1,1,0
+Paying apartment maintenance society dues,English,3800,3500,1.09,0,0,9,0,0,1,1,0
+Freelance print vendor settled after delivery,English,6800,7650,0.89,0,0,7,0,0,1,1,0
+School books and stationery purchase,English,1650,2200,0.75,0,0,5,0,0,1,1,0
+Buying new headphones from verified electronics shop,English,4500,3000,1.50,1,0,6,0,0,1,1,0
+Late evening cab fare settlement to regular driver,English,780,2500,0.31,0,1,6,0,0,1,1,0
+Gift transfer to cousin for wedding anniversary,English,11000,2500,4.40,0,0,10,0,0,1,1,0
+Dental checkup clinic consultation payment,English,1900,2400,0.79,1,0,6,0,0,1,1,0
+Weekend train ticket booking payment,English,2150,2500,0.86,0,1,7,0,0,1,1,0
+Monthly gym membership renewal,English,2800,2500,1.12,0,0,6,0,0,1,1,0
+राशन और किराने का मासिक भुगतान,Hindi,1900,2500,0.76,0,0,6,0,0,1,1,0
+घर का बिजली बिल भुगतान समय पर,Hindi,2300,2500,0.92,0,0,6,0,0,1,1,0
+बहन को परिवार खर्च के लिए पैसे भेजे,Hindi,4500,2500,1.80,0,0,7,0,0,1,1,0
+मेडिकल स्टोर से दवाई खरीदने का भुगतान,Hindi,890,1560,0.57,0,0,5,0,0,1,1,0
+इंटरनेट वाईफाई बिल का नियमित भुगतान,Hindi,1200,2500,0.48,0,0,6,0,0,1,1,0
+रात में परिचित दुकान से खाना ऑर्डर,Hindi,750,2500,0.30,0,1,6,0,0,1,1,0
+परिवार की शादी के लिए बड़ा सहयोग भेजा,Hindi,12000,2500,4.80,0,0,9,0,0,1,1,0
+बच्चों की स्कूल फीस जमा की,Hindi,6200,5000,1.24,0,0,8,0,0,1,1,0
+दूध और सब्जी का साप्ताहिक बिल,Hindi,1150,1800,0.64,0,0,5,0,0,1,1,0
+डॉक्टर की जांच और क्लिनिक फीस,Hindi,1600,2000,0.80,1,0,6,0,0,1,1,0
+Ghar ka bijli aur pani bill payment,Hindi,2100,2500,0.84,0,0,6,0,0,1,1,0
+Kirana dukaan se monthly saman kharida,Hindi,1750,2500,0.70,0,0,6,0,0,1,1,0
+Dost ke sath dinner ka hisab bheja,Hindi,900,2200,0.41,0,1,7,0,0,1,1,0
+Maa ke liye dawai aur checkup kharch,Hindi,2600,2500,1.04,0,0,6,0,0,1,1,0
+Bhai ko college books ke liye transfer,Hindi,3400,2500,1.36,0,0,7,0,0,1,1,0
+Verified plumber ko kaam ke baad payment,Hindi,1500,2500,0.60,1,0,6,0,0,1,1,0
+Office rent aur studio maintenance bill,Hindi,11500,7650,1.50,0,0,7,0,0,1,1,0
+Naya phone charger trusted store se liya,Hindi,1999,2500,0.80,1,0,6,0,0,1,1,0
+ಮನೆಯ ಕಿರಾಣಿ ಮತ್ತು ತರಕಾರಿ ಖರೀದಿ ಪಾವತಿ,Kannada,1650,2500,0.66,0,0,6,0,0,1,1,0
+ವಿದ್ಯುತ್ ಮತ್ತು ನೀರಿನ ಬಿಲ್ ಪಾವತಿ,Kannada,2150,2500,0.86,0,0,6,0,0,1,1,0
+ತಂಗಿಗೆ ಕುಟುಂಬದ ಖರ್ಚಿಗಾಗಿ ಹಣ ಕಳುಹಿಸಲಾಗಿದೆ,Kannada,4200,2500,1.68,0,0,6,0,0,1,1,0
+ಔಷಧಿ ಅಂಗಡಿಯಲ್ಲಿ ಮಾತ್ರೆ ಖರೀದಿ ಪಾವತಿ,Kannada,940,1560,0.60,0,0,5,0,0,1,1,0
+ಮನೆ ಬಾಡಿಗೆ ಮತ್ತು ನಿರ್ವಹಣೆ ಪಾವತಿ,Kannada,9500,7650,1.24,0,0,7,0,0,1,1,0
+ರಾತ್ರಿ ವೇಳೆ ಪರಿಚಿತ ಹೋಟೆಲ್ ಊಟದ ಬಿಲ್,Kannada,680,2500,0.27,0,1,6,0,0,1,1,0
+ವೈದ್ಯರ ಸಲಹೆ ಮತ್ತು ಚಿಕಿತ್ಸೆ ಶುಲ್ಕ ಪಾವತಿ,Kannada,1800,2000,0.90,1,0,6,0,0,1,1,0
+ಶಾಲಾ ಪುಸ್ತಕ ಮತ್ತು ಸ್ಟೇಷನರಿ ಖರೀದಿ,Kannada,1400,2200,0.64,0,0,5,0,0,1,1,0
+ಇಂಟರ್ನೆಟ್ ಬ್ರಾಡ್ಬ್ಯಾಂಡ್ ಮಾಸಿಕ ಬಿಲ್,Kannada,1199,2500,0.48,0,0,6,0,0,1,1,0
+ಕುಟುಂಬದ ಕಾರ್ಯಕ್ರಮಕ್ಕೆ ದೊಡ್ಡ ಸಹಾಯ ಹಣ,Kannada,11500,2500,4.60,0,0,8,0,0,1,1,0
+Mane kirani mattu tarakari payment,Kannada,1550,2500,0.62,0,0,6,0,0,1,1,0
+Current bill mattu water bill kattide,Kannada,2250,2500,0.90,0,0,6,0,0,1,1,0
+Akka ge mane kharchige hana kaliside,Kannada,3800,2500,1.52,0,0,7,0,0,1,1,0
+Medical shop alli tablet tagondide,Kannada,870,1560,0.56,0,0,5,0,0,1,1,0
+Friend jote dinner bill share madide,Kannada,950,2400,0.40,0,1,7,0,0,1,1,0
+Trusted electrician ge kelasa mugida mele payment,Kannada,1700,2500,0.68,1,0,6,0,0,1,1,0
+Bus ticket booking regular travel app alli,Kannada,1250,2500,0.50,0,0,6,0,0,1,1,0
+Office workspace monthly rent transfer,Kannada,12000,7650,1.57,0,0,7,0,0,1,1,0
+Caller says bank account will be blocked immediately unless KYC fee paid now,English,18000,2500,7.20,1,1,6,1,0,0,0,1
+Police officer on call threatening digital arrest warrant unless fine transferred,English,45000,2500,18.00,1,0,6,1,0,0,0,1
+Tech support agent asked me to install AnyDesk and transfer verification deposit,English,25000,2500,10.00,1,1,6,1,1,0,0,1
+Stranger insisting I pay customs clearance charge urgently and tell nobody,English,32000,2500,12.80,1,0,5,1,0,0,0,1
+Screen sharing active with refund desk agent guiding me to send money right now,English,15000,1560,9.62,1,1,5,1,1,0,0,1
+Caller demanding immediate tax penalty transfer within five minutes or legal case,English,28000,2500,11.20,1,0,6,1,0,0,0,1
+Urgent courier parcel seized by cyber cell pay verification fee to release,English,22000,2500,8.80,1,1,6,1,0,0,0,1
+Customer care executive using TeamViewer to guide my urgent refund transfer,English,19500,2500,7.80,1,0,6,1,1,0,0,1
+Someone on video call threatening arrest unless secret security deposit is sent,English,50000,7650,6.54,1,1,7,1,0,0,0,1
+Unknown caller pressuring me to pay electricity disconnection fee in two minutes,English,9500,1560,6.09,1,0,5,1,0,0,0,1
+Remote support helper telling me not to hang up and send verification amount,English,14000,2500,5.60,1,1,6,1,1,0,0,1
+Blackmail threat on phone demanding money immediately so photos are not leaked,English,35000,2500,14.00,1,1,6,1,0,0,0,1
+Lottery prize claim agent asking for urgent processing charge via screen share,English,12000,1560,7.69,1,0,5,1,1,0,0,1
+Fake bank manager warning SIM and account will freeze today if not paid now,English,16500,2500,6.60,1,0,6,1,0,0,0,1
+Pressured to send job registration fee immediately while caller watches screen,English,8500,2500,3.40,1,0,5,1,1,0,0,1
+Unknown person forcing quick transfer for fake accident emergency scam,English,21000,2500,8.40,1,1,6,1,0,0,0,1
+Do not tell family caller said send security verification amount immediately,English,13500,1560,8.65,1,0,5,1,0,0,0,1
+QuickSupport app open while caller guides urgent wallet reactivation payment,English,17500,2500,7.00,1,1,6,1,1,0,0,1
+Court summons threat on phone demanding immediate settlement transfer,English,40000,7650,5.23,1,0,7,1,0,0,0,1
+Suspicious unknown merchant requesting hurried payment without verification,English,11000,2500,4.40,1,1,6,1,0,0,0,1
+Unverified payee asking urgent transfer while user feels unsafe and pressured,English,7500,2500,3.00,1,0,6,1,0,0,0,1
+Unknown receiver demanding immediate verification payment over remote call,English,12500,2500,5.00,1,1,6,1,1,0,0,1
+कॉल करने वाले ने कहा तुरंत पैसे भेजो वरना बैंक खाता अभी बंद हो जाएगा,Hindi,22000,2500,8.80,1,1,6,1,0,0,0,1
+पुलिस अधिकारी बनकर गिरफ्तारी की धमकी देकर तुरंत जुर्माना मांग रहा है,Hindi,35000,2500,14.00,1,0,6,1,0,0,0,1
+रिमोट ऐप एनीडेस्क चालू करवाकर रिफंड के नाम पर पैसे भेजने को कहा,Hindi,18000,1560,11.54,1,1,5,1,1,0,0,1
+कस्टम पार्सल में केस बताकर अभी तुरंत पैसे ट्रांसफर करने का दबाव डाल रहा है,Hindi,28000,2500,11.20,1,0,6,1,0,0,0,1
+किसी को मत बताना कहकर गुप्त रूप से वेरिफिकेशन शुल्क भेजने को मजबूर किया,Hindi,15000,2500,6.00,1,1,6,1,0,0,0,1
+कस्टमर केयर एजेंट स्क्रीन शेयर पर जल्दबाजी में भुगतान करवा रहा है,Hindi,12500,1560,8.01,1,0,5,1,1,0,0,1
+बिजली कनेक्शन अभी काटने की धमकी देकर तुरंत बिल भरने का दबाव बनाया,Hindi,9800,1560,6.28,1,0,5,1,0,0,0,1
+नकली अधिकारी फोन पर कानूनी कार्रवाई का डर दिखाकर पैसे मांग रहा है,Hindi,30000,2500,12.00,1,1,6,1,0,0,0,1
+फर्जी केवाईसी अपडेट के लिए अभी तुरंत पैसे भेजने की चेतावनी मिली,Hindi,14500,2500,5.80,1,0,6,1,0,0,0,1
+लॉटरी इनाम दिलाने के नाम पर जल्दी प्रोसेसिंग फीस भेजने को कह रहा है,Hindi,11000,2500,4.40,1,0,6,1,0,0,0,1
+Caller bol raha hai turant paise bhejo warna account freeze ho jayega,Hindi,19000,2500,7.60,1,1,6,1,0,0,0,1
+Police aur arrest ka darr dikha kar abhi fine transfer karne ko bola,Hindi,42000,2500,16.80,1,0,6,1,0,0,0,1
+AnyDesk screen share par baithkar refund verification payment karwa raha hai,Hindi,16000,2500,6.40,1,1,6,1,1,0,0,1
+Kisi ko mat batana bolke jaldi se security deposit bhejne ka pressure hai,Hindi,13000,1560,8.33,1,0,5,1,0,0,0,1
+Fake bank officer bol raha hai KYC expire ho gaya abhi pay karo,Hindi,14000,2500,5.60,1,0,6,1,0,0,0,1
+Parcel customs me pakda gaya hai turant penalty bhejo warna case hoga,Hindi,26000,2500,10.40,1,1,6,1,0,0,0,1
+Remote support wala phone par jaldi payment karne ko force kar raha hai,Hindi,17500,2500,7.00,1,0,6,1,1,0,0,1
+Anjaan vyakti dhamki dekar turant paise mang raha hai,Hindi,24000,2500,9.60,1,1,6,1,0,0,0,1
+ತಕ್ಷಣ ಹಣ ಕಳುಹಿಸದಿದ್ದರೆ ಬ್ಯಾಂಕ್ ಖಾತೆ ಬ್ಲಾಕ್ ಆಗುತ್ತದೆ ಎಂದು ಬೆದರಿಕೆ ಹಾಕುತ್ತಿದ್ದಾರೆ,Kannada,20000,2500,8.00,1,1,6,1,0,0,0,1
+ಪೊಲೀಸ್ ಮತ್ತು ಬಂಧನದ ಹೆಸರಿನಲ್ಲಿ ತಕ್ಷಣ ದಂಡ ಕಟ್ಟಲು ಒತ್ತಡ ಹಾಕುತ್ತಿದ್ದಾರೆ,Kannada,38000,2500,15.20,1,0,6,1,0,0,0,1
+ಎನಿಡೆಸ್ಕ್ ಸ್ಕ್ರೀನ್ ಶೇರ್ ಮೂಲಕ ರೀಫಂಡ್ ಪಾವತಿ ಮಾಡಲು ಒತ್ತಾಯಿಸುತ್ತಿದ್ದಾರೆ,Kannada,16500,1560,10.58,1,1,5,1,1,0,0,1
+ಯಾರಿಗೂ ಹೇಳಬೇಡ ಎಂದು ತಕ್ಷಣ ಭದ್ರತಾ ಹಣ ಕಳುಹಿಸಲು ಒತ್ತಡ ತಂದಿದ್ದಾರೆ,Kannada,14000,2500,5.60,1,0,6,1,0,0,0,1
+ಕಸ್ಟಮ್ಸ್ ಪಾರ್ಸೆಲ್ ತಡೆಹಿಡಿಯಲಾಗಿದೆ ಈಗಲೇ ಶುಲ್ಕ ಪಾವತಿಸಿ ಎಂದು ಬೆದರಿಸಿದ್ದಾರೆ,Kannada,27000,2500,10.80,1,1,6,1,0,0,0,1
+ನಕಲಿ ಗ್ರಾಹಕ ಸೇವಾ ಅಧಿಕಾರಿ ರಿಮೋಟ್ ಆ್ಯಪ್ ಮೂಲಕ ಹಣ ಕಳುಹಿಸಲು ಹೇಳುತ್ತಿದ್ದಾರೆ,Kannada,15500,2500,6.20,1,0,6,1,1,0,0,1
+ವಿದ್ಯುತ್ ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸುವುದಾಗಿ ಹೆದರಿಸಿ ತಕ್ಷಣ ಹಣ ಕೇಳುತ್ತಿದ್ದಾರೆ,Kannada,9200,1560,5.90,1,0,5,1,0,0,0,1
+ಕೆವೈಸಿ ಅವಧಿ ಮುಗಿದಿದೆ ಐದು ನಿಮಿಷದಲ್ಲಿ ಹಣ ಪಾವತಿಸಿ ಎಂದು ಒತ್ತಡ,Kannada,13500,2500,5.40,1,1,6,1,0,0,0,1
+ಕೋರ್ಟ್ ನೋಟಿಸ್ ನೆಪದಲ್ಲಿ ತಕ್ಷಣ ಹಣ ವರ್ಗಾವಣೆ ಮಾಡಲು ಭಯ ಹುಟ್ಟಿಸಿದ್ದಾರೆ,Kannada,33000,7650,4.31,1,0,7,1,0,0,0,1
+ಅಪರಿಚಿತ ವ್ಯಕ್ತಿ ಫೋನ್ ನಲ್ಲಿ ಆತುರದಿಂದ ಹಣ ಕಳುಹಿಸಲು ಬಲವಂತ ಮಾಡುತ್ತಿದ್ದಾನೆ,Kannada,18500,2500,7.40,1,1,6,1,0,0,0,1
+Takshana hana kalisadiddare bank account block agutte anta bedarike,Kannada,21000,2500,8.40,1,1,6,1,0,0,0,1
+Police arrest madtare anta bhaya padisi fine transfer madoke pressure,Kannada,36000,2500,14.40,1,0,6,1,0,0,0,1
+AnyDesk remote screen share open madi refund deposit kalisoke heltiddare,Kannada,17000,1560,10.90,1,1,5,1,1,0,0,1
+Yarigu helbeda anta secret agi verification hana kalisoke force madtiddare,Kannada,12500,2500,5.00,1,0,6,1,0,0,0,1
+Fake KYC officer call madi eegale pay madbeku anta ottada haktiddare,Kannada,14500,2500,5.80,1,0,6,1,0,0,0,1
+Courier parcel customs alli sikki hakide takshana penalty katti anta dhamki,Kannada,25000,2500,10.00,1,1,6,1,0,0,0,1
+Remote guidance alli unknown caller hurried payment madoke heltiddare,Kannada,16000,2500,6.40,1,1,6,1,1,0,0,1
+Anjaan vyakti urgent verification fee bhejne ke liye dhamki de raha hai,Hindi,15000,2500,6.00,1,0,6,1,0,0,0,1
+Unverified caller pressuring transfer but user wants to stop,English,9000,2500,3.60,1,0,6,1,0,0,0,1
+User feels unsafe proceeding with new receiver transfer,English,6500,2500,2.60,1,0,6,0,0,0,0,1
+User personally verified new shopkeeper and feels completely safe,English,5500,2500,2.20,1,0,6,0,0,1,1,0
+User verified family doctor invoice directly and feels safe paying,English,4800,2500,1.92,1,0,6,0,0,1,1,0
+User checked with relative in person and feels comfortable transferring,Hindi,6000,2500,2.40,1,0,6,0,0,1,1,0
+User verified vendor in person and confirmed no pressure or remote guide,Kannada,5200,2500,2.08,1,0,6,0,0,1,1,0
+User reported remote helper on call even for modest transfer amount,English,3200,2500,1.28,1,0,6,1,1,0,0,1
+User reported someone pressuring them to pay quickly on phone,English,4500,2500,1.80,1,0,6,1,0,0,0,1
+Someone guiding screen remotely during urgent bill payment,Hindi,5000,2500,2.00,1,0,6,1,1,0,0,1
+Phone call pressure to pay unknown account right now,Kannada,6800,2500,2.72,1,0,6,1,0,0,0,1

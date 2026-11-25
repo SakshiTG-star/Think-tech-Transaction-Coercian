@@ -5,7 +5,8 @@ demonstrating behaviour-based transaction verification in a hackathon prototype.
 No real bank accounts, live feeds, or payment APIs are used.
 """
 
-from typing import Any, Dict, List
+from datetime import datetime
+from typing import Any, Dict, List, Optional
 import pandas as pd
 
 
@@ -250,4 +251,52 @@ def calculate_behaviour_profile(customer_name: str) -> Dict[str, Any]:
         "familiar_payees": familiar_payees,
         "usual_timing": usual_timing,
         "transaction_count": tx_count,
+    }
+
+
+DEFAULT_DEMO_WALLET_BALANCE = 10000.0
+
+
+def record_demo_transaction(
+    customer_name: str,
+    payee: str,
+    amount: float,
+    receiver_id: str = "",
+    upi_id: str = "",
+    category: str = "Demo Wallet Transfer",
+    channel: str = "SafePay Demo Wallet",
+    date_str: Optional[str] = None,
+    time_str: Optional[str] = None,
+) -> Dict[str, Any]:
+    """Append a simulated DEMO payment to the synthetic customer's history.
+
+    Returns the created synthetic transaction record including a generated
+    fictional reference ID. No real bank, UPI, or payment service is used.
+    """
+    if customer_name not in CUSTOMERS:
+        raise ValueError(f"Unknown synthetic customer: {customer_name}")
+
+    now = datetime.now()
+    tx_date = date_str or now.strftime("%Y-%m-%d")
+    tx_time = time_str or now.strftime("%H:%M")
+    tx_count = len(CUSTOMERS[customer_name]["transactions"]) + 1
+    txn_id = f"DEMO-REF-{now.strftime('%H%M%S')}-{tx_count:03d}"
+    clean_receiver_id = str(receiver_id or upi_id).strip()
+
+    record = {
+        "date": tx_date,
+        "time": tx_time,
+        "payee": str(payee).strip(),
+        "category": category,
+        "amount": round(float(amount), 2),
+        "channel": channel,
+    }
+    CUSTOMERS[customer_name]["transactions"].append(record)
+
+    return {
+        **record,
+        "txn_id": txn_id,
+        "customer_name": customer_name,
+        "customer_id": CUSTOMERS[customer_name]["customer_id"],
+        "receiver_id": clean_receiver_id,
     }
